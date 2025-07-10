@@ -121,7 +121,8 @@ Workforce Planning: Helps anticipate future hiring needs by visualizing attritio
 
 Equity and Inclusion Monitoring: Gender- and age-based attrition insights support diversity, equity, and inclusion (DEI) initiatives by highlighting potential disparities in workforce exits.
 
-### 5.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text]([https://github.com/username/repo/assets/image.png](https://github.com/vishnupratap027/Attrition-Daseboard/blob/main/Attrition%20Dashboard%20Screenshot.png))
-Example: ![Dashboard Preview]([https://github.com/username/repo/assets/image.png](https://github.com/vishnupratap027/Attrition-Daseboard/blob/main/Attrition%20Dashboard%20Screenshot.png))
+### 6.	Screenshots / Demos
+
+Show what the dashboard looks like. - ![Attrition-Daseboard](https://github.com/vishnupratap027/Attrition-Daseboard)
+Example: ![Dashboard Preview](https://github.com/vishnupratap027/Attrition-Daseboard/blob/main/Attrition%20Dashboard%20Screenshot.png)
 
