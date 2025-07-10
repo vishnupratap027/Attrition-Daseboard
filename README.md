@@ -21,22 +21,30 @@ The dashboard was built using the following tools and technologies:<br>
 Employee attrition is a major concern for organizations as it leads to productivity loss, increased hiring costs, and potential disruption of team dynamics. HR teams often struggle to pinpoint the root causes of attrition across different departments, job roles, salary levels, and experience groups using static or fragmented data sources.
 
 Key questions such as:
+
 Which job roles are most impacted by attrition?
 Are specific age groups or salary slabs more prone to leaving?
 How does attrition vary by department or education background?
 … are difficult to answer quickly without a centralized, visual overview.
+
 • Goal of the Dashboard
+
 To provide a centralized, interactive analytics tool that:
 Helps HR teams monitor and analyze attrition across departments, demographics, and salary groups.
 Identifies key attrition drivers to guide targeted retention strategies.
 Enables data-driven workforce planning and decision-making.
+
 • Walkthrough of Key Visuals
+
 Attrition Overview Cards show total employees, attrition count, attrition rate, average salary, age, and years at the company.
 Attrition by Age, Salary Slab, and Years at Company reveal patterns in workforce exit behavior.
+
 Job Role Breakdown Table & Bar Chart highlight which roles face the highest attrition (e.g., Laboratory Technicians and Sales Executives).
 Education and Gender-based Charts uncover demographic insights that help HR tailor retention programs.
 Department Filters allow for dynamic cross-departmental comparison (e.g., HR vs. Sales vs. R&D).
+
 • Business Impact & Insights
+
 Quickly identify high-risk segments and departments with elevated attrition.
 Gain actionable insights into salary and experience-related churn trends.
 Support HR initiatives with data-backed evidence, improving employee retention and reducing hiring costs.
@@ -74,5 +82,5 @@ Workforce Planning: Helps anticipate future hiring needs by visualizing attritio
 Equity and Inclusion Monitoring: Gender- and age-based attrition insights support diversity, equity, and inclusion (DEI) initiatives by highlighting potential disparities in workforce exits.
 
 ### 5.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+Show what the dashboard looks like. - ![Alt text]([https://github.com/username/repo/assets/image.png](https://github.com/vishnupratap027/Attrition-Daseboard/blob/main/Attrition%20Dashboard%20Screenshot.png))
+
